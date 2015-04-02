@@ -2,7 +2,7 @@
 
 Make it look like you’ve brought back the blink tag in Slack, at least for a little while.
 
-![slack-blink-tag.gif](https://raw.githubusercontent.com/danielgm/slack-fake-blink-tag/master/slack-blink-tag.gif)
+![slack-blink-tag.gif](https://raw.githubusercontent.com/danielgm/slack-fake-blink-tag/master/slack-blink-tag.png)
 
 Uses OSX Automator and AppleScript to edit your previous message and alternate between two lines of text in your clipboard.
 
@@ -21,4 +21,6 @@ Omg swoot! You can do a           in Slack using the pound sign!!1
 5. Re-run the script if you want to continue faking blink.
 
 The script will switch back to the Slack window and trigger the necessary keystrokes to make your previous message alternate between the two lines in your clipboard.
+
+![slack-blink-tag.gif](https://raw.githubusercontent.com/danielgm/slack-fake-blink-tag/master/slack-blink-tag.gif)
 
